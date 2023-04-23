@@ -1,0 +1,17 @@
+{
+  "window.zoomLevel": 2,
+  "editor.mouseWheelZoom": true,
+  "editor.wordWrap": "on",
+  "files.autoSave": "onFocusChange",
+  "terminal.integrated.enablePersistentSessions": false,
+  "interactiveWindow.restore": false,
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "editor.renderWhitespace": "all",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true,
+  "liveServer.settings.donotVerifyTags": true
+}
